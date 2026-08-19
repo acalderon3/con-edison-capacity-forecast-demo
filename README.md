@@ -1,6 +1,6 @@
 # Electric Operations Capability Dashboard (Prototype)
 
-**[Live demo](https://YOUR-GITHUB-USERNAME.github.io/con-edison-capacity-forecast-demo/)** -- update this link once GitHub Pages is enabled (see below).
+**[Live demo](https://github.com/acalderon3/con-edison-capacity-forecast-demo)** -- update this link once GitHub Pages is enabled (see below).
 
 A working prototype that automates the monthly capacity-vs-demand reporting
 cycle described in a real "Project Specialist, Electric Operations PMO --
