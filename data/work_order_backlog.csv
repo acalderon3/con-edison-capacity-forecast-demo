@@ -1,0 +1,241 @@
+region,program,month,required_hours,priority
+Manhattan,Overhead Line Rebuild,2025-09,1411,Medium
+Manhattan,Underground Cable Replacement,2025-09,1948,Medium
+Manhattan,Substation Upgrade,2025-09,1106,Low
+Manhattan,Vegetation Management,2025-09,890,Medium
+Manhattan,Storm Hardening,2025-09,3010,Medium
+Manhattan,Overhead Line Rebuild,2025-10,2710,Medium
+Manhattan,Underground Cable Replacement,2025-10,1283,Medium
+Manhattan,Substation Upgrade,2025-10,1533,Low
+Manhattan,Vegetation Management,2025-10,785,Medium
+Manhattan,Storm Hardening,2025-10,2309,Medium
+Manhattan,Overhead Line Rebuild,2025-11,1129,Medium
+Manhattan,Underground Cable Replacement,2025-11,1369,Medium
+Manhattan,Substation Upgrade,2025-11,2320,Medium
+Manhattan,Vegetation Management,2025-11,1759,Medium
+Manhattan,Storm Hardening,2025-11,2268,High
+Manhattan,Overhead Line Rebuild,2025-12,818,Low
+Manhattan,Underground Cable Replacement,2025-12,877,Medium
+Manhattan,Substation Upgrade,2025-12,3281,High
+Manhattan,Vegetation Management,2025-12,2467,Medium
+Manhattan,Storm Hardening,2025-12,1425,Medium
+Manhattan,Overhead Line Rebuild,2026-01,799,Medium
+Manhattan,Underground Cable Replacement,2026-01,1619,Medium
+Manhattan,Substation Upgrade,2026-01,2313,High
+Manhattan,Vegetation Management,2026-01,1964,High
+Manhattan,Storm Hardening,2026-01,2542,Medium
+Manhattan,Overhead Line Rebuild,2026-02,1307,Medium
+Manhattan,Underground Cable Replacement,2026-02,911,Low
+Manhattan,Substation Upgrade,2026-02,2132,Medium
+Manhattan,Vegetation Management,2026-02,1221,Medium
+Manhattan,Storm Hardening,2026-02,3936,Medium
+Manhattan,Overhead Line Rebuild,2026-03,1870,Medium
+Manhattan,Underground Cable Replacement,2026-03,2235,Medium
+Manhattan,Substation Upgrade,2026-03,2682,Low
+Manhattan,Vegetation Management,2026-03,1196,High
+Manhattan,Storm Hardening,2026-03,1783,Low
+Manhattan,Overhead Line Rebuild,2026-04,675,Low
+Manhattan,Underground Cable Replacement,2026-04,3850,High
+Manhattan,Substation Upgrade,2026-04,2095,High
+Manhattan,Vegetation Management,2026-04,2199,Medium
+Manhattan,Storm Hardening,2026-04,1183,Low
+Manhattan,Overhead Line Rebuild,2026-05,3318,Medium
+Manhattan,Underground Cable Replacement,2026-05,1333,Low
+Manhattan,Substation Upgrade,2026-05,2916,High
+Manhattan,Vegetation Management,2026-05,1103,High
+Manhattan,Storm Hardening,2026-05,1846,Low
+Manhattan,Overhead Line Rebuild,2026-06,1718,High
+Manhattan,Underground Cable Replacement,2026-06,1017,Medium
+Manhattan,Substation Upgrade,2026-06,3175,High
+Manhattan,Vegetation Management,2026-06,2186,Medium
+Manhattan,Storm Hardening,2026-06,2678,Medium
+Manhattan,Overhead Line Rebuild,2026-07,1121,Medium
+Manhattan,Underground Cable Replacement,2026-07,3391,Low
+Manhattan,Substation Upgrade,2026-07,2066,Medium
+Manhattan,Vegetation Management,2026-07,2697,Low
+Manhattan,Storm Hardening,2026-07,1648,High
+Manhattan,Overhead Line Rebuild,2026-08,1954,High
+Manhattan,Underground Cable Replacement,2026-08,1856,High
+Manhattan,Substation Upgrade,2026-08,6097,Low
+Manhattan,Vegetation Management,2026-08,990,Low
+Manhattan,Storm Hardening,2026-08,606,High
+Bronx,Overhead Line Rebuild,2025-09,437,Medium
+Bronx,Underground Cable Replacement,2025-09,2780,Low
+Bronx,Substation Upgrade,2025-09,503,High
+Bronx,Vegetation Management,2025-09,240,High
+Bronx,Storm Hardening,2025-09,2685,Medium
+Bronx,Overhead Line Rebuild,2025-10,2603,High
+Bronx,Underground Cable Replacement,2025-10,901,High
+Bronx,Substation Upgrade,2025-10,1357,Medium
+Bronx,Vegetation Management,2025-10,968,Medium
+Bronx,Storm Hardening,2025-10,905,Medium
+Bronx,Overhead Line Rebuild,2025-11,1272,Medium
+Bronx,Underground Cable Replacement,2025-11,764,High
+Bronx,Substation Upgrade,2025-11,1160,Low
+Bronx,Vegetation Management,2025-11,2840,High
+Bronx,Storm Hardening,2025-11,741,Low
+Bronx,Overhead Line Rebuild,2025-12,2222,Low
+Bronx,Underground Cable Replacement,2025-12,611,Medium
+Bronx,Substation Upgrade,2025-12,1546,Medium
+Bronx,Vegetation Management,2025-12,1098,Medium
+Bronx,Storm Hardening,2025-12,1127,Medium
+Bronx,Overhead Line Rebuild,2026-01,292,Low
+Bronx,Underground Cable Replacement,2026-01,2735,Medium
+Bronx,Substation Upgrade,2026-01,1799,Medium
+Bronx,Vegetation Management,2026-01,1064,Medium
+Bronx,Storm Hardening,2026-01,894,Low
+Bronx,Overhead Line Rebuild,2026-02,1581,High
+Bronx,Underground Cable Replacement,2026-02,1031,Medium
+Bronx,Substation Upgrade,2026-02,1719,High
+Bronx,Vegetation Management,2026-02,1544,Low
+Bronx,Storm Hardening,2026-02,1033,High
+Bronx,Overhead Line Rebuild,2026-03,1132,Medium
+Bronx,Underground Cable Replacement,2026-03,2284,Medium
+Bronx,Substation Upgrade,2026-03,789,Medium
+Bronx,Vegetation Management,2026-03,672,Low
+Bronx,Storm Hardening,2026-03,1905,Low
+Bronx,Overhead Line Rebuild,2026-04,1258,Medium
+Bronx,Underground Cable Replacement,2026-04,1969,Medium
+Bronx,Substation Upgrade,2026-04,1442,Medium
+Bronx,Vegetation Management,2026-04,1417,High
+Bronx,Storm Hardening,2026-04,1027,High
+Bronx,Overhead Line Rebuild,2026-05,493,Low
+Bronx,Underground Cable Replacement,2026-05,2260,High
+Bronx,Substation Upgrade,2026-05,589,Low
+Bronx,Vegetation Management,2026-05,1648,Medium
+Bronx,Storm Hardening,2026-05,2101,High
+Bronx,Overhead Line Rebuild,2026-06,1044,High
+Bronx,Underground Cable Replacement,2026-06,2851,Low
+Bronx,Substation Upgrade,2026-06,578,Low
+Bronx,Vegetation Management,2026-06,824,Medium
+Bronx,Storm Hardening,2026-06,1900,Low
+Bronx,Overhead Line Rebuild,2026-07,1630,High
+Bronx,Underground Cable Replacement,2026-07,1720,High
+Bronx,Substation Upgrade,2026-07,941,High
+Bronx,Vegetation Management,2026-07,1688,Medium
+Bronx,Storm Hardening,2026-07,1166,Low
+Bronx,Overhead Line Rebuild,2026-08,183,Medium
+Bronx,Underground Cable Replacement,2026-08,1954,Medium
+Bronx,Substation Upgrade,2026-08,1436,Medium
+Bronx,Vegetation Management,2026-08,2618,Low
+Bronx,Storm Hardening,2026-08,764,High
+Brooklyn/Queens,Overhead Line Rebuild,2025-09,1310,High
+Brooklyn/Queens,Underground Cable Replacement,2025-09,3766,High
+Brooklyn/Queens,Substation Upgrade,2025-09,883,High
+Brooklyn/Queens,Vegetation Management,2025-09,1167,Low
+Brooklyn/Queens,Storm Hardening,2025-09,2201,Medium
+Brooklyn/Queens,Overhead Line Rebuild,2025-10,1348,Medium
+Brooklyn/Queens,Underground Cable Replacement,2025-10,1879,Medium
+Brooklyn/Queens,Substation Upgrade,2025-10,1221,Medium
+Brooklyn/Queens,Vegetation Management,2025-10,2741,High
+Brooklyn/Queens,Storm Hardening,2025-10,2806,High
+Brooklyn/Queens,Overhead Line Rebuild,2025-11,3756,Medium
+Brooklyn/Queens,Underground Cable Replacement,2025-11,2522,Medium
+Brooklyn/Queens,Substation Upgrade,2025-11,2494,High
+Brooklyn/Queens,Vegetation Management,2025-11,638,Medium
+Brooklyn/Queens,Storm Hardening,2025-11,952,Medium
+Brooklyn/Queens,Overhead Line Rebuild,2025-12,1438,Low
+Brooklyn/Queens,Underground Cable Replacement,2025-12,2460,Low
+Brooklyn/Queens,Substation Upgrade,2025-12,3103,Medium
+Brooklyn/Queens,Vegetation Management,2025-12,1728,Medium
+Brooklyn/Queens,Storm Hardening,2025-12,1967,Low
+Brooklyn/Queens,Overhead Line Rebuild,2026-01,1163,Medium
+Brooklyn/Queens,Underground Cable Replacement,2026-01,2936,High
+Brooklyn/Queens,Substation Upgrade,2026-01,3759,Low
+Brooklyn/Queens,Vegetation Management,2026-01,1721,Low
+Brooklyn/Queens,Storm Hardening,2026-01,1696,Medium
+Brooklyn/Queens,Overhead Line Rebuild,2026-02,1217,High
+Brooklyn/Queens,Underground Cable Replacement,2026-02,6538,Medium
+Brooklyn/Queens,Substation Upgrade,2026-02,1362,High
+Brooklyn/Queens,Vegetation Management,2026-02,620,High
+Brooklyn/Queens,Storm Hardening,2026-02,2082,Low
+Brooklyn/Queens,Overhead Line Rebuild,2026-03,796,High
+Brooklyn/Queens,Underground Cable Replacement,2026-03,3183,High
+Brooklyn/Queens,Substation Upgrade,2026-03,3288,Low
+Brooklyn/Queens,Vegetation Management,2026-03,3369,High
+Brooklyn/Queens,Storm Hardening,2026-03,1801,High
+Brooklyn/Queens,Overhead Line Rebuild,2026-04,2871,High
+Brooklyn/Queens,Underground Cable Replacement,2026-04,544,Medium
+Brooklyn/Queens,Substation Upgrade,2026-04,1148,Medium
+Brooklyn/Queens,Vegetation Management,2026-04,4722,Medium
+Brooklyn/Queens,Storm Hardening,2026-04,3473,Low
+Brooklyn/Queens,Overhead Line Rebuild,2026-05,4080,Medium
+Brooklyn/Queens,Underground Cable Replacement,2026-05,3241,Low
+Brooklyn/Queens,Substation Upgrade,2026-05,2072,Medium
+Brooklyn/Queens,Vegetation Management,2026-05,1420,High
+Brooklyn/Queens,Storm Hardening,2026-05,2453,Medium
+Brooklyn/Queens,Overhead Line Rebuild,2026-06,2549,Medium
+Brooklyn/Queens,Underground Cable Replacement,2026-06,3870,Medium
+Brooklyn/Queens,Substation Upgrade,2026-06,984,Low
+Brooklyn/Queens,Vegetation Management,2026-06,3291,Low
+Brooklyn/Queens,Storm Hardening,2026-06,3155,Medium
+Brooklyn/Queens,Overhead Line Rebuild,2026-07,2677,Medium
+Brooklyn/Queens,Underground Cable Replacement,2026-07,4848,Medium
+Brooklyn/Queens,Substation Upgrade,2026-07,1414,Medium
+Brooklyn/Queens,Vegetation Management,2026-07,3710,High
+Brooklyn/Queens,Storm Hardening,2026-07,1362,High
+Brooklyn/Queens,Overhead Line Rebuild,2026-08,1791,Low
+Brooklyn/Queens,Underground Cable Replacement,2026-08,2898,High
+Brooklyn/Queens,Substation Upgrade,2026-08,3387,Medium
+Brooklyn/Queens,Vegetation Management,2026-08,5020,High
+Brooklyn/Queens,Storm Hardening,2026-08,1652,High
+Westchester,Overhead Line Rebuild,2025-09,509,Medium
+Westchester,Underground Cable Replacement,2025-09,831,Medium
+Westchester,Substation Upgrade,2025-09,2143,High
+Westchester,Vegetation Management,2025-09,953,Medium
+Westchester,Storm Hardening,2025-09,1074,Low
+Westchester,Overhead Line Rebuild,2025-10,513,High
+Westchester,Underground Cable Replacement,2025-10,2463,Medium
+Westchester,Substation Upgrade,2025-10,810,Medium
+Westchester,Vegetation Management,2025-10,862,Low
+Westchester,Storm Hardening,2025-10,932,Low
+Westchester,Overhead Line Rebuild,2025-11,694,Medium
+Westchester,Underground Cable Replacement,2025-11,1225,High
+Westchester,Substation Upgrade,2025-11,349,High
+Westchester,Vegetation Management,2025-11,949,High
+Westchester,Storm Hardening,2025-11,2244,Medium
+Westchester,Overhead Line Rebuild,2025-12,2629,Medium
+Westchester,Underground Cable Replacement,2025-12,380,Medium
+Westchester,Substation Upgrade,2025-12,735,Medium
+Westchester,Vegetation Management,2025-12,1287,Medium
+Westchester,Storm Hardening,2025-12,408,Medium
+Westchester,Overhead Line Rebuild,2026-01,875,Low
+Westchester,Underground Cable Replacement,2026-01,1791,Low
+Westchester,Substation Upgrade,2026-01,685,Low
+Westchester,Vegetation Management,2026-01,866,High
+Westchester,Storm Hardening,2026-01,1079,Medium
+Westchester,Overhead Line Rebuild,2026-02,937,Medium
+Westchester,Underground Cable Replacement,2026-02,1516,Medium
+Westchester,Substation Upgrade,2026-02,2143,Medium
+Westchester,Vegetation Management,2026-02,723,High
+Westchester,Storm Hardening,2026-02,183,High
+Westchester,Overhead Line Rebuild,2026-03,2047,Medium
+Westchester,Underground Cable Replacement,2026-03,617,Medium
+Westchester,Substation Upgrade,2026-03,995,Medium
+Westchester,Vegetation Management,2026-03,1134,Medium
+Westchester,Storm Hardening,2026-03,561,Low
+Westchester,Overhead Line Rebuild,2026-04,1517,Medium
+Westchester,Underground Cable Replacement,2026-04,246,High
+Westchester,Substation Upgrade,2026-04,861,High
+Westchester,Vegetation Management,2026-04,1905,High
+Westchester,Storm Hardening,2026-04,727,Low
+Westchester,Overhead Line Rebuild,2026-05,1607,Medium
+Westchester,Underground Cable Replacement,2026-05,310,High
+Westchester,Substation Upgrade,2026-05,1804,Low
+Westchester,Vegetation Management,2026-05,512,Low
+Westchester,Storm Hardening,2026-05,1096,Medium
+Westchester,Overhead Line Rebuild,2026-06,375,Medium
+Westchester,Underground Cable Replacement,2026-06,1914,High
+Westchester,Substation Upgrade,2026-06,403,High
+Westchester,Vegetation Management,2026-06,1089,Medium
+Westchester,Storm Hardening,2026-06,1490,High
+Westchester,Overhead Line Rebuild,2026-07,382,Medium
+Westchester,Underground Cable Replacement,2026-07,2346,Low
+Westchester,Substation Upgrade,2026-07,1103,High
+Westchester,Vegetation Management,2026-07,954,High
+Westchester,Storm Hardening,2026-07,444,Low
+Westchester,Overhead Line Rebuild,2026-08,1201,Low
+Westchester,Underground Cable Replacement,2026-08,1225,High
+Westchester,Substation Upgrade,2026-08,564,Medium
+Westchester,Vegetation Management,2026-08,727,High
+Westchester,Storm Hardening,2026-08,1607,Low
